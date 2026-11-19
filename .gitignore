@@ -1,0 +1,18 @@
+# Segredos: nunca no repositório
+.env
+
+# Ambiente virtual e cache do Python
+.venv/
+venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Saídas geradas e dados privados
+logs/
+dados/privados/
+test-input/
+
+# Sistema operacional e editores
+.DS_Store
+Thumbs.db
